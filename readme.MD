@@ -54,7 +54,7 @@ Battrix is a lightweight, native macOS application that provides detailed inform
 
 ### From Release
 
-1. Download the latest release from [GitHub Releases](https://github.com/yourusername/battrix/releases)
+1. Download the latest release from [GitHub Releases](https://github.com/rnihesh/battrix/releases)
 2. Drag Battrix.app to your Applications folder
 3. Launch from Applications or using Spotlight
 
