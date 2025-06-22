@@ -7,6 +7,10 @@ Battrix is a lightweight, native macOS application that provides detailed inform
 ![Dark Mode Battrix Screenshot](./Assets/dark.png)
 ![Light Mode Battrix Screenshot](./Assets/light.png)
 
+## Download
+
+- 💾 [Battrix-Beta.dmg](https://github.com/rnihesh/battrix/releases/download/v1.0.0-beta/Battrix-Beta.dmg)
+
 
 ## Features
 
