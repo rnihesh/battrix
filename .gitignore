@@ -1,0 +1,47 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xcsettings
+
+# SwiftPM
+.build/
+Packages/
+.swiftpm/xcode/package.xcworkspace/
+
+# Swift playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# User-specific
+*.swp
+*.lock
+*.log
+*.tmp
+
+# Cocoapods (if you use it)
+Pods/
+
+# Carthage (if used)
+Carthage/
+
+# Fastlane (if used)
+fastlane/report.xml
+fastlane/screenshots
+fastlane/test_output
+
+# SPM binary artifacts
+Artifacts/
+
+# Firebase / GoogleService
+GoogleService-Info.plist
+
+# Secrets (if any)
+.env
